@@ -8,7 +8,7 @@ import teacherImg from './image/Screenshot_topTeacher.png'
 
 const Project = () => {
     return (
-        <div>
+        <div id="project">
            <div>
            <Zoom left>
    <h1>My Latest Project.</h1>

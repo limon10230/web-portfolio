@@ -6,7 +6,7 @@ import aboutImg from './image/img2.png'
 const About = () => {
     return (
         <div>
-           <Container className="bgColor">
+           <Container id="about" className="bgColor">
   <Row>
   <Col> 
     <img className="aboutImg" src={aboutImg} alt="" />
